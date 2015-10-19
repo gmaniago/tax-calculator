@@ -19,14 +19,15 @@ div {
 	background: #2A528B;
 	margin-right: 20%;
 	margin-left: 20%;
-	border: 2em solid #407FD9;
-	border-radius: .7em;
+	border-radius: 32px;
+  	border: 22px solid #407FD9;
 }
 
 form {
 	width: 80%;
 	margin-right: 10%;
 	margin-left: 10%;
+	letter-spacing: 0.0625em;
 	input {
 		box-sizing: border-box;
 		width: 100%;
@@ -51,5 +52,7 @@ form {
 
 h3 {
 	margin-left: 10%;
+	margin-right: 10%;
 
 }
+
